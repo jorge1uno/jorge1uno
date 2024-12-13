@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hola 👋, Soy Jorge Paiva
+
+
+📖 Soy Estudiante de Ing Informatica, en la FP-UNA.
+
+💻 Desarrollador web con PHP 
+![php](https://www.php.net/images/logos/php-icon-white.gif) y laravel.
+
 
 <!--
 **jorge1uno/jorge1uno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
