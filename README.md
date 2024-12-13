@@ -4,7 +4,7 @@
 📖 Soy Estudiante de Ing Informatica, en la FP-UNA.
 
 💻 Desarrollador web con PHP 
-![php](https://www.php.net/images/logos/php-icon-white.gif) y laravel.
+![php](https://www.php.net/images/logos/php-icon-white.gif) y laravel <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIZSV6WytXnbqL37Z7iDhoi8kwsxPd28QQw&s" alt="Laravel" width="60" height="60">
 
 
 <!--
